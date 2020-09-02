@@ -2,7 +2,7 @@
 import os
 import sys
 
-# V2
+# V3
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "project.settings")
